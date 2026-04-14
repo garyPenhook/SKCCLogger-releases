@@ -1,14 +1,16 @@
 {
-  "version": "v99.0.0b",
+  "version": "v1.0.130b",
   "date": "2026-04-14",
-  "notes": "Test update notification",
+  "notes": "",
   "url": "https://github.com/K7MJG/SKCCLogger-releases/releases/latest",
   "downloads": {
-    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v99.0.0b/skcclogger-linux-amd64",
-    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v99.0.0b/skcclogger-linux-arm64",
-    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v99.0.0b/skcclogger-windows-amd64.exe",
-    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v99.0.0b/skcclogger-windows-x86.exe",
-    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v99.0.0b/skcclogger-macos-intel.tar.gz",
-    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v99.0.0b/skcclogger-macos-arm64.tar.gz"
+    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-linux-amd64",
+    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-linux-arm64",
+    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-linux-x86",
+    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-linux-armhf",
+    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-windows-amd64.exe",
+    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-windows-x86.exe",
+    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-macos-intel.tar.gz",
+    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.0.130b/skcclogger-macos-arm64.tar.gz"
   }
 }
