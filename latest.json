@@ -1,17 +1,19 @@
 {
-  "version": "v1.1.0",
-  "date": "2026-06-02T20:52:43Z",
+  "version": "v1.1.1",
+  "date": "2026-06-12T15:28:52Z",
   "notes": "",
   "url": "https://github.com/K7MJG/SKCCLogger-releases/releases/latest",
   "downloads": {
-    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-linux-amd64-v1.1.0.deb",
-    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-linux-arm64-v1.1.0.deb",
-    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-linux-x86-v1.1.0",
-    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-linux-armhf-v1.1.0",
-    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-windows-amd64-v1.1.0.zip",
-    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-windows-x86-v1.1.0.zip",
-    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-macos-intel-v1.1.0.tar.gz",
-    "darwin-amd64-mojave": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-macos-intel-mojave-v1.1.0.tar.gz",
-    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.0/skcclogger-macos-arm64-v1.1.0.tar.gz"
+    "linux-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-linux-amd64-v1.1.1.deb",
+    "linux-amd64-rpm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-linux-amd64-v1.1.1.rpm",
+    "linux-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-linux-arm64-v1.1.1.deb",
+    "linux-arm64-rpm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-linux-arm64-v1.1.1.rpm",
+    "linux-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-linux-x86-v1.1.1",
+    "linux-arm": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-linux-armhf-v1.1.1",
+    "windows-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-windows-amd64-v1.1.1.zip",
+    "windows-386": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-windows-x86-v1.1.1.zip",
+    "darwin-amd64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-macos-intel-v1.1.1.tar.gz",
+    "darwin-amd64-mojave": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-macos-intel-mojave-v1.1.1.tar.gz",
+    "darwin-arm64": "https://github.com/K7MJG/SKCCLogger-releases/releases/download/v1.1.1/skcclogger-macos-arm64-v1.1.1.tar.gz"
   }
 }
